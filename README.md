@@ -13,3 +13,6 @@ This project uses Machine Learning to classify messages as Spam or Not Spam.
 
 ## How to Run
 streamlit run app.py
+
+## 📸 Project Screenshot
+![App Screenshot](screenshot.png)
