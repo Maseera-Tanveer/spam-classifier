@@ -2,6 +2,9 @@
 
 This project uses Machine Learning to classify messages as Spam or Not Spam.
 
+## Accuracy
+Model achieved ~98% accuracy on test data.
+
 ## Features
 - Predict spam messages
 - Simple UI using Streamlit
