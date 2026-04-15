@@ -45,5 +45,8 @@ This project is a Machine Learning-based application that classifies messages as
 ```bash
 streamlit run app.py
 
+---
+
 ##  Project Screenshot
-![App Screenshot](Screenshot.png)
+![Project Screenshot](Screenshot.png)
+
