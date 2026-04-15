@@ -35,3 +35,6 @@ This project is a Machine Learning application that classifies messages as **Spa
 
 ```bash
 streamlit run app.py
+
+```md
+![Spam Classifier](Screenshot.png)
