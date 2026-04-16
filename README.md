@@ -35,3 +35,12 @@ This project is a Machine Learning application that classifies messages as **Spa
 
 ```bash
 streamlit run app.py
+
+
+
+
+
+## 📸 Screenshot
+
+![App Screenshot](Screenshot.png)
+
