@@ -40,7 +40,7 @@ streamlit run app.py
 
 
 
-## 📸 Screenshot
+📸 Screenshot
 
 ![App Screenshot](Screenshot.png)
 
